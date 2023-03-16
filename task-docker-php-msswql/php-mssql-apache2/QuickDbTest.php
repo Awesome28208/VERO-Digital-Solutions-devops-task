@@ -3,8 +3,8 @@
 
 final class QuickDbTest
 {
-    private const host = 'localhost';
-    private const db = 'db_vero_digital';
+    private const host = 'database; TrustServerCertificate=true';
+    private const db = 'tempdb';
     private const user = 'sa';
     private const pass = 'Un!q@to2023';
 
